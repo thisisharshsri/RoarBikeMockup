@@ -1,0 +1,5 @@
+CTrl + Shift + "  [ Grid on/off ]
+Ctrl + Enter      [ Prototype Preview ]
+Ctrl + Shift + I  [ Import ]
+Hold Alt while Dragging for uniform resizing both sides
+Ctrl + L [ lock ]
